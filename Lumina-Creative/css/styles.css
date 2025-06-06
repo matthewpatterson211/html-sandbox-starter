@@ -193,7 +193,7 @@ header {
 
 .service-flex {
     display: flex;
-    gap 2rem;
+    gap: 2rem;
 }
 
 .service-item h4 {
